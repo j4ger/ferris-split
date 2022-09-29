@@ -1,0 +1,47 @@
+### Module positions - created on 2022年09月28日 星期三 21时42分29秒 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                           PosX       PosY       Rot  Side
+C12       0.1uF          C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   128.2700   -70.4850   90.0000  top
+C13       0.1uF          C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   130.8100   -70.4850   90.0000  top
+D0_5      1N4148W        D_SOD-123                                     142.0000   -25.7000    0.0000  top
+D0_6      1N4148W        D_SOD-123                                     160.0000   -23.2000    0.0000  top
+D0_7      1N4148W        D_SOD-123                                     178.0000   -17.7000    0.0000  top
+D0_8      1N4148W        D_SOD-123                                     196.0000   -24.7000    0.0000  top
+D0_9      1N4148W        D_SOD-123                                     214.0000   -36.6000    0.0000  top
+D1_5      1N4148W        D_SOD-123                                     142.0000   -42.7000    0.0000  top
+D1_6      1N4148W        D_SOD-123                                     160.0000   -40.2000    0.0000  top
+D1_7      1N4148W        D_SOD-123                                     178.0000   -34.7000    0.0000  top
+D1_8      1N4148W        D_SOD-123                                     196.0000   -41.6000    0.0000  top
+D1_9      1N4148W        D_SOD-123                                     214.0000   -53.7000    0.0000  top
+D2_5      1N4148W        D_SOD-123                                     142.0000   -59.7000    0.0000  top
+D2_6      1N4148W        D_SOD-123                                     160.0000   -57.1000    0.0000  top
+D2_7      1N4148W        D_SOD-123                                     178.0000   -51.7000    0.0000  top
+D2_8      1N4148W        D_SOD-123                                     196.0000   -58.7000    0.0000  top
+D2_9      1N4148W        D_SOD-123                                     214.0000   -70.6000    0.0000  top
+D3_5      1N4148W        D_SOD-123                                     131.9953   -86.3399   25.0000  top
+D3_6      1N4148W        D_SOD-123                                     151.1665   -79.3241   15.0000  top
+Jack1     PJ-320A        TRRS-PJ-320A                                  123.7925   -76.2000   90.0000  top
+K0_5      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 142.0000   -30.0000    0.0000  top
+K0_6      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 160.0000   -27.5000    0.0000  top
+K0_7      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 178.0000   -22.0000    0.0000  top
+K0_8      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 196.0000   -29.0000    0.0000  top
+K0_9      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 214.0000   -41.0000    0.0000  top
+K1_5      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 142.0000   -47.0000    0.0000  top
+K1_6      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 160.0000   -44.5000    0.0000  top
+K1_7      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 178.0000   -39.0000    0.0000  top
+K1_8      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 196.0000   -46.0000    0.0000  top
+K1_9      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 214.0000   -58.0000    0.0000  top
+K2_5      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 142.0000   -64.0000    0.0000  top
+K2_6      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 160.0000   -61.5000    0.0000  top
+K2_7      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 178.0000   -56.0000    0.0000  top
+K2_8      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 196.0000   -63.0000    0.0000  top
+K2_9      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 214.0000   -75.0000    0.0000  top
+K3_5      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 133.7657   -90.1989   25.0000  top
+K3_6      KEYSW          Choc_Mini_PG1232_Choc_Spacing                 152.2165   -83.4941   15.0000  top
+R6        10kΩ          R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   139.0650   -72.3900  180.0000  top
+R7        4.7kΩ         R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   130.1750   -80.6450    0.0000  top
+R8        4.7kΩ         R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   125.7300   -70.4850  -90.0000  top
+U2        MCP23017-E/SO  SOIC-28W_7.5x17.9mm_P1.27mm                   178.4350   -74.9300    0.0000  top
+## End

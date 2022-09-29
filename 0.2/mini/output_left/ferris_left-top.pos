@@ -1,0 +1,67 @@
+### Module positions - created on 2022年09月28日 星期三 20时55分23秒 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                           PosX       PosY       Rot  Side
+C1        1uF                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   110.3969   -55.7266   90.0000  top
+C2        1uF                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    97.1550   -74.9300    0.0000  top
+C3        10uF               C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    40.5000   -77.2500  180.0000  top
+C4        4.7nF              C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    40.5000   -81.2500  180.0000  top
+C5        0.1uF              C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    54.5000   -66.5000  180.0000  top
+C6        4.7uF              C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    58.5000   -66.5000    0.0000  top
+C7        1uF                C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    72.0000   -80.7500    0.0000  top
+C8        10uF               C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    72.0000   -83.0000    0.0000  top
+C9        0.1uF              C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    40.5000   -79.2500    0.0000  top
+C10       0.1uF              C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    72.0000   -77.5000  180.0000  top
+C11       4.7uF              C_0805_2012Metric_Pad1.15x1.40mm_HandSolder    72.0000   -75.2500  180.0000  top
+D0_0      1N4148W            D_SOD-123                                      22.0000   -36.6500    0.0000  top
+D0_1      1N4148W            D_SOD-123                                      40.0000   -24.6500    0.0000  top
+D0_2      1N4148W            D_SOD-123                                      58.0000   -17.6500    0.0000  top
+D0_3      1N4148W            D_SOD-123                                      76.0000   -23.1500    0.0000  top
+D0_4      1N4148W            D_SOD-123                                      94.0000   -25.6500    0.0000  top
+D1        SMF9.0CA           D_SOD-123                                     108.1700   -68.1700  180.0000  top
+D1_0      1N4148W            D_SOD-123                                      22.0000   -53.6500    0.0000  top
+D1_1      1N4148W            D_SOD-123                                      40.0000   -41.6500    0.0000  top
+D1_2      1N4148W            D_SOD-123                                      58.0000   -34.6500    0.0000  top
+D1_3      1N4148W            D_SOD-123                                      76.0000   -39.9000    0.0000  top
+D1_4      1N4148W            D_SOD-123                                      94.0000   -42.6500    0.0000  top
+D2        RB060M-30TR        D_SOD-123                                     108.1700   -70.6700  180.0000  top
+D2_0      1N4148W            D_SOD-123                                      22.0000   -70.6500    0.0000  top
+D2_1      1N4148W            D_SOD-123                                      40.0000   -58.6500    0.0000  top
+D2_2      1N4148W            D_SOD-123                                      58.0000   -51.8000    0.0000  top
+D2_3      1N4148W            D_SOD-123                                      76.0000   -57.1500    0.0000  top
+D2_4      1N4148W            D_SOD-123                                      94.0000   -59.6500    0.0000  top
+D3        1N4148W            D_SOD-123                                      45.0000   -76.7500    0.0000  top
+D3_3      1N4148W            D_SOD-123                                      84.3650   -79.0550  -15.0000  top
+D3_4      1N4148W            D_SOD-123                                     103.4343   -86.0013  -25.0000  top
+F1        500mA              Fuse_1206_3216Metric                          108.1700   -65.6700  180.0000  top
+J1        TYPE-C-31-M-12     USB_C_Receptacle_HRO_TYPE-C-31-M-12           108.5850   -48.2600   90.0000  top
+Jack0     PJ-320A            TRRS-PJ-320A                                  111.7925   -76.2000  -90.0000  top
+K0_0      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  22.0000   -41.0000    0.0000  top
+K0_1      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  40.0000   -29.0000    0.0000  top
+K0_2      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  58.0000   -22.0000    0.0000  top
+K0_3      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  76.0000   -27.5000    0.0000  top
+K0_4      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  94.0000   -30.0000    0.0000  top
+K1_0      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  22.0000   -58.0000    0.0000  top
+K1_1      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  40.0000   -46.0000    0.0000  top
+K1_2      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  58.0000   -39.0000    0.0000  top
+K1_3      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  76.0000   -44.5000    0.0000  top
+K1_4      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  94.0000   -47.0000    0.0000  top
+K2_0      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  22.0000   -75.0000    0.0000  top
+K2_1      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  40.0000   -63.0000    0.0000  top
+K2_2      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  58.0000   -56.0000    0.0000  top
+K2_3      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  76.0000   -61.5000    0.0000  top
+K2_4      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  94.0000   -64.0000    0.0000  top
+K3_3      KEYSW              Choc_Mini_PG1232_Choc_Spacing                  83.1850   -83.1850  -15.0000  top
+K3_4      KEYSW              Choc_Mini_PG1232_Choc_Spacing                 101.5942   -89.8664  -25.0000  top
+Q1        PDTC123JT,215      SOT-23                                         45.0000   -80.0000    0.0000  top
+R1        5.1kΩ             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   105.1472   -54.8113  180.0000  top
+R2        5.1kΩ             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   108.5850   -59.0550    0.0000  top
+R3        100kΩ             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   108.1893   -55.7266   90.0000  top
+R4        100kΩ             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   108.5850   -80.6450    0.0000  top
+R5        100kΩ             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder    40.5000   -75.2500  180.0000  top
+SW1       B3U-1000P          SW_SPST_B3U-1000P                              36.1950   -79.3750  -90.0000  top
+U1        STM32F072CBT6      Dual_MCU_QFP_QFN_48_with_breakout_pins         60.5000   -76.5000   90.0000  top
+U3        MCP1700T-3302E/TT  SOT-23                                        104.7750   -57.7850    0.0000  top
+U4        SRV05-4            SOT-23-6                                      108.1700   -62.4200    0.0000  top
+## End
